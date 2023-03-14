@@ -1,0 +1,9 @@
+@article{REPO-365,
+    author = "Qin, Tong and Li, Peiliang and Shen, Shaojie",
+    journal = "IEEE Transactions on Robotics",
+    number = "4",
+    pages = "1004-1020",
+    title = "{VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator}",
+    volume = "34",
+    year = "2018"
+}
